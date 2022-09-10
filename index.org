@@ -1,0 +1,35 @@
+#+SETUPFILE: https://hozendev.github.io/hozen-style/hozen_html_style.setup
+#+TITLE: Page Personelle
+#+LANGUAGE: fr
+
+* Présentation
+
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales
+  efficitur mollis. Cras bibendum nibh non enim tincidunt, eget venenatis
+  nibh euismod. Nulla semper vel risus at pharetra. Sed vitae dolor porttitor
+  tortor sodales efficitur. Morbi lectus nunc, dapibus convallis dictum eu,
+  condimentum a turpis. Integer rhoncus libero arcu, vitae imperdiet diam
+  convallis at. Sed a quam non sapien lobortis ultricies ac eu elit. Sed
+  finibus faucibus lorem vel rhoncus. Suspendisse in tincidunt metus. Duis
+  sodales orci in nulla lacinia, ac laoreet nisl varius. Proin in enim ac
+  arcu sagittis pharetra. Suspendisse laoreet vulputate neque nec placerat.
+  Morbi convallis rhoncus suscipit.
+
+* Prep'Isima 1
+** Développement Linux
+*** Ressources
+
+    - [[https://perso.isima.fr/~yjdaniel/cours/installations/installations.html][Logiciels Utiles]]
+    - [[https://perso.isima.fr/~yjdaniel/cours/emacs/emacs.html][Emacs]]
+    - [[https://perso.isima.fr/~yjdaniel/cours/latex/latex.html][LaTeX]]
+    - [[https://perso.isima.fr/~yjdaniel/cours/securite/securite.html][Cryptographie]]
+    - [[https://www-fourier.ujf-grenoble.fr/~parisse/giac/doc/fr/tutoriel/index.html][Xcas]]
+    - [[https://perso.isima.fr/~yjdaniel/cours/git/git.html][Git]]  
+
+*** CodeInGame
+
+    - [[https://perso.isima.fr/~endurel/devlinux/detectivepika/pika.html][Détective Pikatcha 1&2]]
+
+* Prep'Isima 2
+* ISIMA 1
+
