@@ -31,5 +31,9 @@
     - [[https://perso.isima.fr/~endurel/devlinux/detectivepika/pika.html][Détective Pikatcha 1&2]]
 
 * Prep'Isima 2
-* ISIMA 1
+* ZZ1
+** Anglais
+*** S1
+
+[[https://perso.isima.fr/~endurel/zz1/english/s1/vocabulary/][Vocabulaire du S1]]
 
