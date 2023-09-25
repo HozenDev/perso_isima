@@ -1,20 +1,28 @@
-#+SETUPFILE: https://hozendev.github.io/hozen-style/hozen_html_style.setup
-#+TITLE: Page Personelle
+#+SETUPFILE: https://hozendev.github.io/hozen-style/html/hozen.setup
+#+TITLE: ISIMA - Enzo Durel
 #+LANGUAGE: fr
 
 * Présentation
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales
-  efficitur mollis. Cras bibendum nibh non enim tincidunt, eget venenatis
-  nibh euismod. Nulla semper vel risus at pharetra. Sed vitae dolor porttitor
-  tortor sodales efficitur. Morbi lectus nunc, dapibus convallis dictum eu,
-  condimentum a turpis. Integer rhoncus libero arcu, vitae imperdiet diam
-  convallis at. Sed a quam non sapien lobortis ultricies ac eu elit. Sed
-  finibus faucibus lorem vel rhoncus. Suspendisse in tincidunt metus. Duis
-  sodales orci in nulla lacinia, ac laoreet nisl varius. Proin in enim ac
-  arcu sagittis pharetra. Suspendisse laoreet vulputate neque nec placerat.
-  Morbi convallis rhoncus suscipit.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce pulvinar, nunc et sollicitudin mollis, quam augue ultrices turpis, id finibus nunc nulla in nisi. Nullam neque elit, bibendum non vulputate vel, ultrices sit amet ex. Duis egestas libero ut convallis commodo. Pellentesque nec lacus magna. Etiam finibus augue orci, eu faucibus diam malesuada quis. In lacinia arcu vitae varius gravida. Aliquam suscipit nunc orci, eu ultricies dui porta ultricies. Donec nisl massa, vehicula ut pulvinar eget, tempus a lectus. Sed rhoncus lacus eget risus lobortis volutpat. Aenean pulvinar, justo eu eleifend vehicula, velit neque ultricies neque, at pulvinar neque ex in justo. Donec viverra rhoncus erat eget porttitor. Maecenas quis hendrerit purus. 
 
+* Portfolio
+
+[[https://hozendev.github.io/enzodurel.fr/][Lien vers mon portfolio]]
+
+* CV
+
+(à paraître)
+[[https://hozendev.github.io/enzodurel.fr/][Lien vers mon CV en ligne]]
+
+* ZZ2
+* ZZ1
+** Anglais
+
+[[https://perso.isima.fr/~endurel/zz1/english/s1/vocabulary/][Vocabulaire anglais du S1]]
+
+** Projet
+* Prep'Isima 2
 * Prep'Isima 1
 ** Développement Linux
 *** Ressources
@@ -28,12 +36,6 @@
 
 *** CodeInGame
 
-    - [[https://perso.isima.fr/~endurel/devlinux/detectivepika/pika.html][Détective Pikatcha 1&2]]
+    - [[https://perso.isima.fr/~endurel/prep1/devlinux/detectivepika/pika.html][Détective Pikatcha 1&2]]
 
-* Prep'Isima 2
-* ZZ1
-** Anglais
-*** S1
-
-[[https://perso.isima.fr/~endurel/zz1/english/s1/vocabulary/][Vocabulaire du S1]]
-
+      
